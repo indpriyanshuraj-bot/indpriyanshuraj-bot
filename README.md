@@ -1,16 +1,15 @@
-## Hi there 👋
+# indpriyanshuraj-bot
 
-<!--
-**indpriyanshuraj-bot/indpriyanshuraj-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Machine account for automation on [@indpriyanshuraj](https://github.com/indpriyanshuraj)'s repositories.
 
-Here are some ideas to get you started:
+| | |
+|---|---|
+| **Owner** | Priyanshu Raj ([@indpriyanshuraj](https://github.com/indpriyanshuraj)) |
+| **Type** | Machine user — not a person |
+| **Purpose** | CI, dependency and release chores, pull request review |
+| **Scope** | Only the repositories this account has been granted access to |
+| **Contact** | None. Reach the owner through his profile. |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This account does not read or reply to messages, and it acts only inside the repositories it has been added to. Anything that needs a human belongs at [github.com/indpriyanshuraj](https://github.com/indpriyanshuraj).
+
+Site: https://indpriyanshuraj-bot.github.io/indpriyanshuraj-bot/
